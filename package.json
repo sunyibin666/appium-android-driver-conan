@@ -26,7 +26,7 @@
   "main": "./build/index.js",
   "bin": {},
   "directories": {
-    "test": "test"
+   // "test": "test"
   },
   "dependencies": {
     "appium-adb": "^2.23.0",
