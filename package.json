@@ -160,5 +160,5 @@
     "test": "gulp once",
     "watch": "gulp"
   },
-  "version": "2.10.35"
+  "version": "2.10.40"
 }
